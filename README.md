@@ -19,4 +19,4 @@ In order to use this script to create Services in your PagerDuty account using t
      - Make sure to place the 'services.csv' file in the same directory you updated on the script
 
   4. Run the Script:
-     - Open your terminal, navigate to the directory containing the script, and run: node bulk_create_services.js
+     - Open your terminal, navigate to the directory containing the script, and run: node [bulk_create_services.js](https://github.com/sdqali96/pagerduty-tse-assignment/blob/main/bulk_create_services.js)
